@@ -2,7 +2,7 @@
 
 ## Project url
 
-📚 https://happy-nike-landing-page.netlify.app
+📚 https://happy-nike-landing.netlify.app
 
 ## Summary
 
