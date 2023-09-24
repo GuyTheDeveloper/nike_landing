@@ -16,3 +16,5 @@ Tools used to build this project:
 - Atoms folder structure
 
 ## ℹ Project made to learn more about tailwindcss
+
+so some links are just buttons and <code>a</code> tag instead of <code>Link<code>
